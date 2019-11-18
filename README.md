@@ -19,7 +19,7 @@
   You can use it on your own dataset
   
   ###### Visualization on VOC
-  <img src='./pic/1.jpg',width=256px,height=256px></img> /<br> <img src='./pic/test.png',width=256px,height=256px></img>
+  <img src='./pic/1.jpg' width=256px height=256px></img> /<br> <img src='./pic/test.png' width=256px height=256px></img>
   
   ###### Visualization on ImageNet
 
