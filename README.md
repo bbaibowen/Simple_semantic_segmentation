@@ -6,3 +6,7 @@
 |name    |        |
 |:-------|:-------|
 |ASPP    |√       |
+|RADAM+LOOKAHead|√|
+|warm up+cos|√|
+|focal loss + ohem|√|
+|'''|'''|
