@@ -19,7 +19,7 @@
   You can use it on your own dataset
   
   ###### Visualization on VOC
-   ![](./pic/1.jpg)
+  <img src='./pic/1.jpg'></img> /<br> <img src='./pic/test.png'></img>
   
   ###### Visualization on ImageNet
 
