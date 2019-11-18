@@ -12,7 +12,7 @@
 |'''|'''|
 
 ### Result
-  |dataset|best Miou|finnal Miou|
+  |dataset|best Miou|final Miou|
   |:-----|:-----|:-----|
   |VOC0712|0.917|0.916|
   
