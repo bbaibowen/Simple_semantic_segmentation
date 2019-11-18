@@ -13,7 +13,7 @@
 
 ### Result
   |dataset|best Miou|finnal Miou|
-  |:-----|:-----|:-----|:-----|
+  |:-----|:-----|:-----|
   |VOC0712|0.917|0.916|
   
   You can use it on your own dataset
